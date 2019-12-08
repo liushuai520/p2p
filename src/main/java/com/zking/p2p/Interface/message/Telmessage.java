@@ -19,8 +19,8 @@ public class Telmessage {
         //最后在header中的格式(中间是英文空格)为Authorization:APPCODE 83359fd73fe94948385f570e3c139105
         headers.put("Authorization", "APPCODE " + appcode);
         Map<String, String> querys = new HashMap<String, String>();
-        querys.put("mobile", "15773207310");
-        querys.put("param", "code:52013");
+        querys.put("mobile", "13647499363");
+        querys.put("param", "code:123456");
         querys.put("tpl_id", "TP1710262");
         Map<String, String> bodys = new HashMap<String, String>();
 
