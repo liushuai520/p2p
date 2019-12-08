@@ -43,7 +43,7 @@
     <redis.version>2.9.0</redis.version>
     <redis.spring.version>1.7.1.RELEASE</redis.spring.version>
     <!-- jackson -->
-    <jackson.version>2.9.3</jackson.version>
+    <jackson.version>2.10.1</jackson.version>
     <!--jstl+standard-->
     <jstl.version>1.2</jstl.version>
     <standard.version>1.1.2</standard.version>
