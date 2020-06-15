@@ -21,7 +21,7 @@
     <junit.version>4.12</junit.version>
     <servlet.version>4.0.0</servlet.version>
     <!--spring-->
-    <spring.version>5.0.2.RELEASE</spring.version>
+    <spring.version>5.2.7.RELEASE</spring.version>
     <spring.security.version>5.0.1.RELEASE</spring.security.version>
     <!--mybatis-->
     <mybatis.version>3.4.5</mybatis.version>
