@@ -22,7 +22,7 @@
     <servlet.version>4.0.0</servlet.version>
     <!--spring-->
     <spring.version>5.0.2.RELEASE</spring.version>
-    <spring.security.version>5.0.1.RELEASE</spring.security.version>
+    <spring.security.version>5.3.3.RELEASE</spring.security.version>
     <!--mybatis-->
     <mybatis.version>3.4.5</mybatis.version>
     <mysql.verison>5.1.44</mysql.verison>
