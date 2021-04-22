@@ -24,7 +24,7 @@
     <spring.version>5.0.2.RELEASE</spring.version>
     <spring.security.version>5.0.1.RELEASE</spring.security.version>
     <!--mybatis-->
-    <mybatis.version>3.4.5</mybatis.version>
+    <mybatis.version>3.5.6</mybatis.version>
     <mysql.verison>5.1.44</mysql.verison>
     <pagehelper.version>5.1.2</pagehelper.version>
     <!--mybatis与spring集成jar-->
